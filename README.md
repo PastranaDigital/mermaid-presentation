@@ -6,8 +6,6 @@ Presentation content for Mermaid, the clever chart visualization for Markdown sy
 
 <br><br>
 
-<img alt="Mermaid Banner" src="images\Mermaid_HR.png"/>
-
 ## Two Ways to Add a Chart Title
 
 from https://github.com/mermaid-js/mermaid/issues/177
