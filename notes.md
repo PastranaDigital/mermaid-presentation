@@ -111,3 +111,72 @@ graph TD
             -   No -> Stop
 
 How many scenarios end in “Stop”? “Carry on”?
+
+---
+
+```mermaid
+graph TD
+A[Where it started] --> B[What you need]
+B --> C[Why pictures are better]
+C --> F[Resources]
+C --> E((Questions))
+```
+
+
+```mermaid
+graph TD 
+              st{HI!}
+              good((Great))
+              bad((Mizzz))
+              en>Goodbye!]
+              A((HI))
+              style st fill:blue,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2
+              style en fill:red,fill-opacity:0.35,color:#FFFFFF,stroke-opacity:0.2
+              classDef eco fill:green;
+              class A eco
+```
+
+```mermaid
+graph TB
+         A[13,032] --> |Accept John's Offer| B[12,000]
+         A ==> |Reject John's Offer |C(($13,032))
+         C --> |Offer from Vanessa 0.6| D[$14,000]
+         D ==> |Accept Vanessa's Offer| E[$14,000]
+         D --> |Reject Vanessa's Offer| F(($11,580))
+         C --> |No Offer from Vanessa 0.4| G(($11,580))
+         G --> |Salary 1 0.05| H[$21,600]
+         G --> |Salary 2 0.25| I[$16,800]
+         G --> |Salary 3 0.40| J[$12,800]
+         G --> |Salary 4 0.25| K[$6,000]
+         G --> |Salary 5 0.05| L[$0]
+         F --> |Salary 1 0.05| M[$21,600]
+         F --> |Salary 2 0.25| N[$16,800]
+         F --> |Salary 3 0.40| O[$12,800]
+         F --> |Salary 4 0.25| P[$6,000]
+         F --> |Salary 5 0.05| Q[$0]
+
+```
+
+```mermaid
+graph TB
+    sq[Square shape] --> ci((Circle shape))
+
+    subgraph A subgraph
+        od>Odd shape]-- Two line<br>edge comment --> ro
+        di{Diamond with <br/> line break} -.-> ro(Rounded<br>square<br>shape)
+        di==>ro2(Rounded square shape)
+    end
+
+    %% Notice that no text in shape are added here instead that is appended further down
+    e --> od3>Really long text with linebreak<br>in an Odd shape]
+
+    %% Comments after double percent signs
+    e((Inner / circle<br>and some odd <br>special characters)) --> f(,.?!+-*ز)
+
+    cyr[Cyrillic]-->cyr2((Circle shape Начало));
+
+     classDef green fill:#9f6,stroke:#333,stroke-width:2px,color:#00F;
+     classDef orange fill:#f96,stroke:#333,stroke-width:4px;
+     class sq,e green
+     class di orange
+```
