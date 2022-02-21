@@ -1,9 +1,15 @@
-# GitHub Charts using Mermaid
+<img alt="LWC Core Banner" src="images\Mermaid_Banner.png"/>
+
+# GitHub Charts Using Mermaid
+
 Presentation content for Mermaid, the clever chart visualization for Markdown syntax, for specific use in GitHub
 
 <br><br>
+
 ## Two Ways to Add a Chart Title
+
 from https://github.com/mermaid-js/mermaid/issues/177
+
 ```mermaid
 graph TD
 
@@ -21,3 +27,5 @@ graph LR
     A --> B
   end
 ```
+
+<img src="images\microwave.png" alt="Multi Photo Frame to explain how components mesh together" width="200"/><img src="images\microwave.png" alt="Multi Photo Frame to explain how components mesh together" width="200"/><img src="images\microwave.png" alt="Multi Photo Frame to explain how components mesh together" width="200"/>
