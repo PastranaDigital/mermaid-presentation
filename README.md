@@ -38,6 +38,8 @@ Both of these images show the same content... but do they?
 
 <img src="images/Pictionary_Steps.png" alt="Pictionary Chart Example"/>
 
+<br><br>
+
 ```mermaid
 graph TD
 a[DRAW A PICTURE] --> b{DID THEY <br> GUESS IT?}
@@ -45,10 +47,7 @@ b --> c([You. Win.]) & d[POINT REPEATEDLY <br> TO THE SAME PICTURE]
 d --Repeat--> b
 ```
 
-<!-- DRAW A PICTURE -->
-<!-- DID THEY GUESS IT? -->
-<!-- You. Win. -->
-<!-- POINT REPEATEDLY TO THE SAME PICTURE -->
+<br><br>
 
 ### _From A Sketch to Chart Notes_
 
@@ -61,16 +60,17 @@ d --Repeat--> b
 
 <br><br>
 
-<br><br>
-<br><br>
-<br><br>
-
 ## What Other Kinds of Charts are Available???
 
-<br><br>
-<br><br>
-<br><br>
-<br><br>
+-   [Flow Chart](https://mermaid-js.github.io/mermaid/#/flowchart)
+-   [Sequence Diagram](https://mermaid-js.github.io/mermaid/#/sequenceDiagram)
+-   [Class Diagram](https://mermaid-js.github.io/mermaid/#/classDiagram)
+-   [State Diagram](https://mermaid-js.github.io/mermaid/#/stateDiagram)
+-   [Entity Relationship Diagram](https://mermaid-js.github.io/mermaid/#/entityRelationshipDiagram)
+-   [User Journey](https://mermaid-js.github.io/mermaid/#/user-journey)
+-   [Gantt Chart](https://mermaid-js.github.io/mermaid/#/gantt)
+-   [Pie Chart](https://mermaid-js.github.io/mermaid/#/pie)
+-   [Requirement Diagram](https://mermaid-js.github.io/mermaid/#/requirementDiagram)
 
 <br><br>
 
