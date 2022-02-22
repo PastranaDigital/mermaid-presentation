@@ -38,12 +38,19 @@ Both of these images show the same content... but do they?
 
 <img src="images/Pictionary_Steps.png" alt="Pictionary Chart Example"/>
 
+```mermaid
+graph TD
+a[DRAW A PICTURE] --> b{DID THEY <br> GUESS IT?}
+b --> c([You. Win.]) & d[POINT REPEATEDLY <br> TO THE SAME PICTURE]
+d --Repeat--> b
+```
+
 <!-- DRAW A PICTURE -->
 <!-- DID THEY GUESS IT? -->
 <!-- You. Win. -->
 <!-- POINT REPEATEDLY TO THE SAME PICTURE -->
 
-<!-- ### _From A Sketch to Chart Notes_
+### _From A Sketch to Chart Notes_
 
 1. Sketch out the diagram clearly
 1. Label the nodes
@@ -52,7 +59,7 @@ Both of these images show the same content... but do they?
 1. (_optional_) Add text in the paths
 1. (_optional_) Add styling
 
-<br><br> -->
+<br><br>
 
 <br><br>
 <br><br>
