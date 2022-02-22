@@ -18,38 +18,27 @@ graph TD
     Name_of_C -->|Text in Path| Name_of_F((Circle))
 ```
 
-```mermaid
-graph TD
-title(Outline)
-title-->A[Where It All Started]
-style title fill:#A6EDBE,stroke:#FFF,color:#003F5F,stroke-width:0
-linkStyle 0 stroke:#FFF,stroke-width:0;
-
-A --> B(Pictures & Charts are Powerful)
-B --> C{Are pictures<br>better?}
-C -. Yes .-> E
-C -. No .-> D
-
-style C fill:#1c1c1c
-
-classDef orange fill:#f96,stroke:#d1d1d1,stroke-width:4px,color:#333
-class C orange
-
-```
-
 <br><br>
 
 ## Where It All Started
 
 -   For over 6 years, Mermaid has been around as a Javascript library for charting
--   Plant UML, a great tool but...
+-   Plant UML, a great tool but... [[example of limitations]](https://ardalis.com/github-diagrams-with-mermaid/)
 -   GitHub's 2022 Valentine's Day gift
 
 <br><br>
 
 ## Pictures & Charts are Powerful
 
-<img src="images/pictionary_steps.png" alt="Pictionary Chart Example" width="800"/>
+Both of these images show the same content... but do they?
+
+<img src="images/microwave2.png" alt="Pictionary Chart Example" width="800"/>
+
+<br><br>
+
+## Converting a Sketch to Mermaid Chart
+
+<img src="images/Pictionary_Steps.png" alt="Pictionary Chart Example" width="800"/>
 
 Demo of coding a hand drawn chart in VSCode with preview tools
 
@@ -146,7 +135,7 @@ graph LR
 
 -   README.md documentation
 -   Comments in Pull Requests
--   GitHub Actions for visualization
+-   GitHub Actions for Visualization
 
 ```mermaid
 pie
@@ -160,18 +149,18 @@ pie
 
 ## Resources
 
-<a href="https://mermaid-js.github.io/mermaid/"><img alt="Mermaid GitHub Website" src="images\resource01.png"/></a>
-<a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/"><img alt="GitHub Blog about Mermaid" src="images\resource02.png"/></a>
-<a href="https://mermaid-js.github.io/mermaid-live-editor/"><img alt="Mermaid Live Editor" src="images\resource03.png"/></a>
-<a href="https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/"><img alt="Mermaid Cheat Sheet" src="images\resource04.png"/></a>
+<a href="https://mermaid-js.github.io/mermaid/" target="_blank"><img alt="Mermaid GitHub Website" src="images\resource01.png"/></a>
+<a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/" target="_blank"><img alt="GitHub Blog about Mermaid" src="images\resource02.png"/></a>
+<a href="https://mermaid-js.github.io/mermaid-live-editor/" target="_blank"><img alt="Mermaid Live Editor" src="images\resource03.png"/></a>
+<a href="https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/" target="_blank"><img alt="Mermaid Cheat Sheet" src="images\resource04.png"/></a>
 
 <br><br>
 
 ## Further Learning (100% Free)
 
-<a href="https://www.youtube.com/watch?v=eJojC3lSkwg"><img alt="Learning GitHub Writing Markdown" src="images\video_resource01.png"/></a>
-<a href="https://wesbos.com/mastering-markdown"><img alt="Mastering Markdown Course" src="images\video_resource02.png"/></a>
-<a href="https://www.youtube.com/playlist?list=PLUoebdZqEHTxNC7hWPPwLsBmWI0KEhZOd"><img alt="Lucid Chart Diagram Playlist" src="images\video_resource03.png"/></a>
+<a href="https://www.youtube.com/watch?v=eJojC3lSkwg" target="_blank"><img alt="Learning GitHub Writing Markdown" src="images\video_resource01.png" width="270"/></a>
+<a href="https://wesbos.com/mastering-markdown" target="_blank"><img alt="Mastering Markdown Course" src="images\video_resource02.png" width="270"/></a>
+<a href="https://www.youtube.com/playlist?list=PLUoebdZqEHTxNC7hWPPwLsBmWI0KEhZOd" target="_blank"><img alt="Lucid Chart Diagram Playlist" src="images\video_resource03.png" width="270"/></a>
 
 <br><br>
 
