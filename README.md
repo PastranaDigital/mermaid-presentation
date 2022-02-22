@@ -7,9 +7,7 @@ Presentation content for Mermaid, the clever chart visualization for Markdown sy
 ```mermaid
 graph TD
 
-    Name_of_A[Rectangle] -->|Text in Path| Name_of_B(Rounded Rectangle)
-
-    Name_of_B --> Name_of_C{Diamond}
+    Name_of_B(Rounded Rectangle) --> Name_of_C{Diamond}
 
     Name_of_C -->|Text in Path| Name_of_D[Rectangle]
 
@@ -24,7 +22,7 @@ graph TD
 
 -   For over 6 years, Mermaid has been around as a Javascript library for charting
 -   Plant UML, a great tool but... [[example of limitations]](https://ardalis.com/github-diagrams-with-mermaid/)
--   GitHub's 2022 Valentine's Day gift
+-   GitHub's 2022 Valentine's Day gift (⚙️built in)
 
 <br><br>
 
@@ -36,19 +34,20 @@ Both of these images show the same content... but do they?
 
 <br><br>
 
-## Converting a Sketch to Mermaid Chart
+## Converting a Sketch to a Mermaid Chart
 
-<img src="images/Pictionary_Steps.png" alt="Pictionary Chart Example" width="800"/>
+<img src="images/Pictionary_Steps.png" alt="Pictionary Chart Example"/>
 
-Demo of coding a hand drawn chart in VSCode with preview tools
+<br><br>
+<br><br>
+<br><br>
 
-Show how to do it with Live Editor
+## What Other Kinds of Charts are Available???
 
-Review what & why we learned it
-
-Discuss further learning, resources & documentation
-
-Questions
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 <br><br>
 
