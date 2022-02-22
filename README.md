@@ -171,10 +171,10 @@ pie
 
 ## Resources
 
-<a href="https://mermaid-js.github.io/mermaid/" target="_blank"><img alt="Mermaid GitHub Website" src="images\resource01.png"/></a>
-<a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/" target="_blank"><img alt="GitHub Blog about Mermaid" src="images\resource02.png"/></a>
-<a href="https://mermaid-js.github.io/mermaid-live-editor/" target="_blank"><img alt="Mermaid Live Editor" src="images\resource03.png"/></a>
-<a href="https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/" target="_blank"><img alt="Mermaid Cheat Sheet" src="images\resource04.png"/></a>
+<a href="https://mermaid-js.github.io/mermaid/" target="_blank"><img alt="Mermaid GitHub Website" src="images\resource01.png" width="200"/></a>
+<a href="https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/" target="_blank"><img alt="GitHub Blog about Mermaid" src="images\resource02.png" width="200"/></a>
+<a href="https://mermaid-js.github.io/mermaid-live-editor/" target="_blank"><img alt="Mermaid Live Editor" src="images\resource03.png" width="200"/></a>
+<a href="https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/" target="_blank"><img alt="Mermaid Cheat Sheet" src="images\resource04.png" width="200"/></a>
 
 <br><br>
 
