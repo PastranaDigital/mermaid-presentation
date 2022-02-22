@@ -32,8 +32,6 @@ GitHub Blog: https://github.blog/2022-02-14-include-diagrams-markdown-files-merm
 
 Mermaid GitHub Website Documentation: https://mermaid-js.github.io/mermaid/#/
 
-Mermaid GitHub Repo: https://github.com/mermaid-js/mermaid
-
 Mermaid Live Editor: https://mermaid-js.github.io/mermaid-live-editor/
 
 Mermaid Cheat Sheet: https://jojozhuang.github.io/tutorial/mermaid-cheat-sheet/
@@ -67,9 +65,9 @@ graph TD
 
     Name_of_C -->|Text in Path| Name_of_D[Rectangle]
 
-    Name_of_C -->|Text in Path| Name_of_E[Rectangle]
+    Name_of_C -->|Text in Path| Name_of_E[\<br>Trapezoid<br><br>/]
 
-    Name_of_C -->|Text in Path| Name_of_F[Rectangle]
+    Name_of_C -->|Text in Path| Name_of_F((Circle))
 ```
 
 ---
