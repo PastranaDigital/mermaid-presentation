@@ -38,6 +38,22 @@ Both of these images show the same content... but do they?
 
 <img src="images/Pictionary_Steps.png" alt="Pictionary Chart Example"/>
 
+<!-- DRAW A PICTURE -->
+<!-- DID THEY GUESS IT? -->
+<!-- You. Win. -->
+<!-- POINT REPEATEDLY TO THE SAME PICTURE -->
+
+<!-- ### _From A Sketch to Chart Notes_
+
+1. Sketch out the diagram clearly
+1. Label the nodes
+1. Make the basic node connections
+1. Add node labels
+1. (_optional_) Add text in the paths
+1. (_optional_) Add styling
+
+<br><br> -->
+
 <br><br>
 <br><br>
 <br><br>
