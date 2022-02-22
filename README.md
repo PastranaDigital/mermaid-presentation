@@ -7,7 +7,7 @@ Presentation content for Mermaid, the clever chart visualization for Markdown sy
 ```mermaid
 graph TD
 
-    Name_of_B(Rounded Rectangle) --> Name_of_C{Diamond}
+    Name_of_B(Rounded Rectangle) --> Name_of_C{"⚙️Diamond"}
 
     Name_of_C -->|Text in Path| Name_of_D[Rectangle]
 
