@@ -2,7 +2,7 @@
 
 # GitHub Charts Using Mermaid
 
-Presentation content for Mermaid, the clever chart visualization for Markdown syntax, for specific use in GitHub
+Presentation content for Mermaid, the clever chart visualization for Markdown syntax, for use in GitHub
 
 ```mermaid
 graph TD
